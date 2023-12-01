@@ -1,7 +1,7 @@
 # FFT-AVX-512
 
 This repository is the result of my bachelor's thesis, **Speed-up of Fast Fourier Transform using the Intel AVX-512 SIMD instructions**.
-This work lead to an artcile which can be found [here](https://link.springer.com/chapter/10.1007/978-3-031-30333-3_34).
+This work led to an article which can be found [here](https://link.springer.com/chapter/10.1007/978-3-031-30333-3_34).
 
 After an initial analysis of the AVX's ISA, I applied techinques such as *Loop unrolling* and *SLP* to improve the performance of a trivial implementation of the recursive algorithm. 
 
